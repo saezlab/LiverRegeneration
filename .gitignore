@@ -1,1 +1,6 @@
-200407_HLV_POD0319_A1/
+cache/
+data/
+data/__pycache/__
+data/visum/
+data/rna_seq/
+.ipynb_checkpoints/
